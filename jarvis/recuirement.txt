@@ -2,3 +2,7 @@ importing module
 speech_recognition
 pygame
 pyttsx3
+webbrowser
+requests
+first you download all the requirement in your cmd
+ex : pip install pygame
