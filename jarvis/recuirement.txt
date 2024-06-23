@@ -1,0 +1,4 @@
+importing module
+speech_recognition
+pygame
+pyttsx3
